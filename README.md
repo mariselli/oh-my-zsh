@@ -13,3 +13,5 @@ My plugins:
 ```
 plugins=(git symfony2 brew nanoc osx composer sudo sublime git-flow git-extras npm node theme web-search battery docker)
 ```
+
+iTerm color scheme by [toiosky](https://github.com/toioski)
