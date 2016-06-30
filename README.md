@@ -3,7 +3,9 @@ My Custom zsh theme based on Bira
 
 
 Place the template file in:
-`~/.oh-my-zsh/themes'
+```
+~/.oh-my-zsh/themes
+```
 and edit `.zshrc` with this configuration `ZSH_THEME="bira-custom"`
 
 
